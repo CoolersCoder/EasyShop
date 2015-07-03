@@ -1,0 +1,32 @@
+
+/*
+Copyright (C) 2015 Rui Hu
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+/* 
+    Created on : Jun 1, 2015, 6:02:11 PM
+    Author     : Rui Hu
+*/*{font-size:10pt;}
+.table{width:1200px;height:100%;border:1px solid #15B69A;border-collapse: collapse;margin-bottom: 0}
+.table td{border:1px solid #15B69A;}
+.trTop {background: #15B69A;}
+.tdTop {text-align: center; height: 100px;}
+.tdLeft{width: 200px;padding:0px;}
+.tdSearch{height: 70px; border-bottom-width: 0px; padding: 0px; margin: 0px;}
+.tdBody{border-top-width: 0px;height: 540px;width:1009px }
+iframe {width: 100%;height: 100%;}
+#footer{background-color: #15B69A;width: 1200px;margin-top: 0}
+.h6_color,li ,p,li a{color: white};
+ 

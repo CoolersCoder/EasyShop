@@ -1,0 +1,40 @@
+/*
+Copyright (C) 2015 Rui Hu
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+/* 
+    Created on : Jun 18, 2015, 9:45:21 AM
+    Author     : Rui Hu
+*/table {font-size: 10pt;border-color: #efeae5;border-style: solid;border-width: 5px;color: #404040;}
+td {border-color: #efeae5;border-style: solid;border-width: 0;border-bottom-width: 1px;padding: 10px;}
+.jian:HOVER {background: url(/EasyShop/images/icon.png) no-repeat;display: inline-block;background-position: -166px -125px;height: 11px;width: 11px;margin: 0;}
+.jian {background: url(/EasyShop/images/icon.png) no-repeat;display: inline-block;background-position: -166px -145px;height: 11px;width: 11px;margin: 0;}
+.jia:HOVER {background: url(/EasyShop/images/icon.png) no-repeat;display: inline-block;background-position: -178px -125px;height: 11px;width: 11px;margin: 0;}
+.jia {background: url(/EasyShop/images/icon.png) no-repeat;display: inline-block;background-position: -178px -145px;height: 11px;width: 11px;margin: 0;}
+.jiesuan {background: url(/EasyShop/images/icon.png) no-repeat;display: inline-block;background-position: 0 -35px;height: 40px;width: 190px;margin: 0;}
+.kill {background: url(/EasyShop/images/icon.png) no-repeat;display: inline-block;background-position: 0 -480px;height: 40px;width: 190px;}
+ 
+.quantity {width: 25px;text-align: center;margin: 0;}
+a {text-decoration: none; color: #018BD3;}
+a:visited {color: #018BD3;}
+a:hover {color:#FF6600; text-decoration: underline;}
+a.linkImage {border: 1px solid #ffffff;display: inline-block;}
+a.linkImage:HOVER {border: 1px solid #d0d0d0;display: inline-block;}
+a.linkImage:active {border: 1px dotted #404040;display: inline-block;}
+.price_n {color: #c30;font-weight: bold;padding-right: 10px;font-family: Arial;}
+.price_t {color: #c30;font-weight: bold;padding-right: 10px;font-family: Arial;font-size: 15pt;}
+.spanEmpty{margin-top: 50px; font-size: 24px; font-weight: 900;}
+.tdBatchDelete{border-top-width: 5px;border-bottom-width:0px;}
+.tdTotal{border-top-width: 5px;}

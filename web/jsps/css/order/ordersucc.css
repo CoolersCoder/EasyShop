@@ -1,0 +1,101 @@
+/*
+Copyright (C) 2015 Rui Hu
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+/* 
+    Created on : Jun 19, 2015, 7:18:21 PM
+    Author     : Rui Hu
+*/body {
+	font-size: 10pt;
+	color: #404040;
+	font-family: SimSun;
+}
+
+#linkPay {
+	background: url(/EasyShop/images/bg_btns.png) no-repeat;
+	display: inline-block;
+	background-position: 0 -300px;
+	height: 20px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: 900;
+	font-family: 黑体;
+	line-height: 20px;
+}
+
+#linkPay:HOVER {
+	background: url(/EasyShop/images/bg_btns.png) no-repeat;
+	display: inline-block;
+	background-position: 0 -330px;
+	height: 20px;
+	width: 50px;
+}
+
+.price_t {
+	color: #c30;
+	font-weight: bold;
+	padding-right: 10px;
+	font-family: Arial;
+	font-size: 15pt;
+}
+
+.div1 {
+	margin-left: 150px;
+	width: 690px;
+	height: 35px;
+	background-color: #efeae5;
+	border-left: 5px solid #efeae5;
+	border-right: 5px solid #efeae5;
+}
+
+.div2 {
+	margin-left: 150px;
+	width: 690px;
+	height: 300px;
+	border: 5px solid #efeae5;
+}
+
+.div3 {
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.span1 {
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 25px;
+	font-weight: 900;
+	display: inline-block;
+}
+
+.img {
+	float: left;
+	margin: 30px 100px 0px 30px;
+	width: 150px;
+}
+
+dl {
+	float: left;
+	width: 400px;
+	margin-top: 30px;
+}
+
+dt {
+	font-weight: 900;
+}
